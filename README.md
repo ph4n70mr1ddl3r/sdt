@@ -1,6 +1,6 @@
 How to gift early XEN minters with SDT in a provably fair manner?  
 
-1. Get all crank data from the chain, including the claim address and the mint term. Publish it for everyone to verify.  
+1. Get all crank data from the chain (crank 1 to 3.2M), including the claim address and the mint term. Publish it for everyone to verify.  
 2. Create a merkle tree and calculate the merkle root. Publish it for everyone to verify. (0xe72353e2f6010f96a36250acf32969ce9c708306426e834eb3931ff25b9310db)  
 3. Create an erc20 smart contract that will allow them to claim using a merkle proof and get free SDT tokens.  
 4. Deploy the contract on Optimism. Publish the contract. (0x178eF5ecbcaD4F79B31AEf02ED2e4e28F778cfe0)  
