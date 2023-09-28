@@ -23,3 +23,9 @@ The code is immutable and anyone can easily verify that it was done fairly and c
 
 # Notes:  
 You can use any account in Optimism to claim and pay for gas but the SDT tokens will always go to the proper address in the proofXXX.txt file. It will cost about 0.00007 ETH to claim.
+
+## Telegram  
+https://t.me/strictlydecentralized
+
+## Twitter
+https://twitter.com/ph4n70mr1ddl3r
